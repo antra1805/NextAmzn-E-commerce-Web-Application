@@ -1,6 +1,6 @@
-# NextKart
+# NextAmzn - E-commerce Web Application
 
-An Amazon-inspired eCommerce web application built with Next.js and modern tools. Features include product listings, shopping cart, checkout flow, and responsive design.
+Built an inspired eCommerce web application built with Next.js and modern tools. Features include product listings, shopping cart, checkout flow, and responsive design.
 
 ## 🚀 Tech Stack
 - Next.js
